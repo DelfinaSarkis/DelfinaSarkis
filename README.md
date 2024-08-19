@@ -36,22 +36,24 @@
 </ul>
 <h4 align="center" tabindex="-1" class="heading-element" dir="auto">🔨Tools: 
 </h4><h4 align="center"> NestJS, Auth, Deployment, Docker, Intro Microservices and Intro to Architecture 
+<ul>
+<li><a href="https://github.com/DelfinaSarkis/FitHub">Fithub</a> A platform offers a wide range of resources, including expert-designed workout routines, personalized training plans, and access to a vibrant community of fitness enthusiasts.</li>
+</ul>
+<h4 align="center" tabindex="-1" class="heading-element" dir="auto">🔨Tools: 
+</h4><h4 align="center"> NestJS, Auth, Deployment, Docker, Microservices, Architecture, React, TypeScript, MercadoPago, API Google, Crons
 <h2 id="📱--links---social-media">📱  Links - Social Media</h2>
   <div align="center"> 
-  <a href="mailto:delfysark17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/delfina-sarkis-496152324/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>  
+  <a href="mailto:delfysark17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="mailto:delfinasarkis@outlook.com"">
      <img src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EMail.Ru%3C%2Ftitle%3E%3Cpath%20d%3D%22M15.61%2012c0%201.99-1.62%203.61-3.61%203.61-1.99%200-3.61-1.62-3.61-3.61%200-1.99%201.62-3.61%203.61-3.61%201.99%200%203.61%201.62%203.61%203.61M12%200C5.383%200%200%205.383%200%2012s5.383%2012%2012%2012c2.424%200%204.761-.722%206.76-2.087l.034-.024-1.617-1.879-.027.017A9.494%209.494%200%200%201%2012%2021.54c-5.26%200-9.54-4.28-9.54-9.54%200-5.26%204.28-9.54%209.54-9.54%205.26%200%209.54%204.28%209.54%209.54a9.63%209.63%200%200%201-.225%202.05c-.301%201.239-1.169%201.618-1.82%201.568-.654-.053-1.42-.52-1.426-1.661V12A6.076%206.076%200%200%200%2012%205.93%206.076%206.076%200%200%200%205.93%2012%206.076%206.076%200%200%200%2012%2018.07a6.02%206.02%200%200%200%204.3-1.792%203.9%203.9%200%200%200%203.32%201.805c.874%200%201.74-.292%202.437-.821.719-.547%201.256-1.336%201.553-2.285.047-.154.135-.504.135-.507l.002-.013c.175-.76.253-1.52.253-2.457%200-6.617-5.383-12-12-12%22%2F%3E%3C%2Fsvg%3E" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
   
-<ul>
-<li><a href="delfinasarkis@outlook.com">Email</a></li>
-</ul>
 <p><em>Finally I share my  <a href="https://github.com/DelfinaSarkis?tab=repositories">Repositories</a>  link so that you can review all the works and projects.</em></p>
 <p>Thanks for stopping in my GITHUB. Have a nice day 😁.</p>
 </div>
