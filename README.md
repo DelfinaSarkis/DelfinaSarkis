@@ -6,6 +6,10 @@
 <p>👋 Hi! I’m Delfi,  I am a self-demanding and curious person, I like to be constantly learning, I am quick to learn. I already had knowledge about programming since school, that’s why I signed up for <strong>Henry</strong> to delve deeper into the subject. I really like the <strong>Back End</strong> area. After Henry finishes, I plan to continue studying Java and Python.</p>
 <h2 id="😀-about-me">😀 About Me:</h2>
  <h3 align="center" tabindex="-1" class="heading-element" dir="auto">💻 The Technologies: </h3>
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,docker,html,css,vscode,github,postgresql,ajax,git,jasmine" />
+    <img src="https://skillicons.dev/icons?i=nodejs,jest,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
+</div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
@@ -29,7 +33,7 @@
 <li><a href="https://github.com/DelfinaSarkis/CardRenderer">CardRenderer</a> An application that achieves the construction of a simple but interactive web page. Provides access to a form where a title, description, and image can be entered. The application displays this data in the form of cards, organized chronologically according to the order of completion of the form.</li>
 </ul>
 <h4 align="center" tabindex="-1" class="heading-element" dir="auto">🔨Tools: 
-</h4><h4 align="center"> DOM, JavaScript, HTML, CSS y Jazmine 
+</h4><h4 align="center"> DOM, JavaScript, HTML, CSS y Jasmine 
 </h4><hr>
 <ul>
 <li><a href="https://github.com/DelfinaSarkis/CineSark">CineSark</a> An application created with a movie API, which allows you to search and add movies to a favorites list, and also shows you an already established movie catalog.</li>
