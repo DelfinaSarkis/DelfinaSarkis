@@ -7,25 +7,9 @@
 <h2 id="😀-about-me">😀 About Me:</h2>
  <h3 align="center" tabindex="-1" class="heading-element" dir="auto">💻 The Technologies: </h3>
     <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,docker,html,css,vscode,github,postgresql,ajax,git,jasmine" />
-    <img src="https://skillicons.dev/icons?i=nodejs,jest,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,docker,html,css,vscode,github,postgresql,git,mysql,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,jest,javascript,typescript,express,mongodb" /><br>
 </div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://camo.githubusercontent.com/113f69a8875eb8ef284d95e04074ea5d9e0fd4d52ae562de6e11f6c4b778e893/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a61736d696e652f6a61736d696e652d69636f6e2e737667" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://camo.githubusercontent.com/87882410b423221c16582e2f23590a723cb841ef3458ccdc7b13ba8d5bcc0354/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://cdn.prod.website-files.com/609bc2fa29b6d5b7f44a2785/6477443d765585e53f4beab1_nestjs-logo.webp" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Ejemplo de imagen" width="80" height="80">
 <h2 id="📄-about-my-studies">📄 About My Studies:</h2>
 <p>During school I have been required to do jobs that require using the tools in the Office package, in addition to programming with Arduino. I studied in a bilingual school so I have more than 10 years of English, plus I can also speak French. I am currently studying full stack development at Henry, specifically Back-End.</p>
 <h2 id="⚡-about-my-proyects">⚡ About My Proyects:</h2>
@@ -53,6 +37,18 @@
 <h4 align="center" tabindex="-1" class="heading-element" dir="auto">🔨Tools: 
 </h4><h4 align="center"> NestJS, Auth, Deployment, Docker, Intro Microservices and Intro to Architecture 
 <h2 id="📱--links---social-media">📱  Links - Social Media</h2>
+  <div align="center"> 
+  <a href="mailto:delfysark17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/delfina-sarkis-496152324/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:delfinasarkis@outlook.com"">
+     <img src="https://img.shields.io/badge/i.blogs.es/c72aee/outlook/1366_521.jpg" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+  
 <ul>
 <li><a href="delfinasarkis@outlook.com">Email</a></li>
 </ul>
