@@ -35,7 +35,8 @@
 <li><a href="https://github.com/DelfinaSarkis/E-Commerce">E-Commerce</a> A creation of a server to serve an E-Commerce type SPA. It is oriented towards Back-End development. I worked with the latest digital resources to build a powerful and well-structured server following good practices.</li>
 </ul>
 <h4 align="center" tabindex="-1" class="heading-element" dir="auto">🔨Tools: 
-</h4><h4 align="center"> NestJS, Auth, Deployment, Docker, Intro Microservices and Intro to Architecture 
+</h4><h4 align="center"> NestJS, Auth, Deployment, Docker, Intro Microservices and Intro to Architecture
+</h4><hr>
 <ul>
 <li><a href="https://github.com/DelfinaSarkis/FitHub">Fithub</a> A platform offers a wide range of resources, including expert-designed workout routines, personalized training plans, and access to a vibrant community of fitness enthusiasts.</li>
 </ul>
